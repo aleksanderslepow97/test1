@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     'rest_framework',
     'network',
-    'django.contrib.admin',  # Если требуется для админки
+    # 'django.contrib.admin',  # Если требуется для админки
 ]
 
 MIDDLEWARE = [
